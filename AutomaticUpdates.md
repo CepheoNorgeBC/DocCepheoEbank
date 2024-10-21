@@ -6,3 +6,6 @@ Denne prosedyren vil automatiske hente statusoppdateringer for alle bankoverfør
 ## Automatisk henting av belastede bankoverføringer
 Codeunit 72182594 "DXTEBANK GetBookedPayments"
 Denne prosedyren vil automatisk hente nye belastede bankoverføringer fra banken. Vi anbefaler at denne konfigureres i en jobbkø som kjører minimum en gang pr. døgn, men ikke oftere enn en gang pr. time.
+## Automatisk bokføring av belastede bankoverføringer.
+Codeunit 72182595 "DXTEBANK Post Booked Banktrans"
+Denne prosedyren vil automatisk bokføre bankoverførignger som er belastet i banken, men som ennå ikke er bokført i Business Central. Vi anbefaler at denne konfigureres i en jobbkø som kjøres minimum en gang pr. time, men ikke oftere en 2.hvert minutt.
