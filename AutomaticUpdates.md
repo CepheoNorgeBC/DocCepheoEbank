@@ -1,11 +1,11 @@
-# Konfigurasjon av automatisk oppdatering
-Som en del av Cepheo E-Bank er det laget noen prosedyrer som automatisk vil utføre bestemte funksjoner i løsningen. Disse kan konfigureres til å kjøre gjennom jobbkøer i Business Central. Neden for finner du en beskrivelse av disse rutinene og hvordan de kan konfigureres.
-## Automatiske statusoppdateringer - bankoverføinger
+# Configuration of Automatic Updates
+As part of Cepheo E-Bank, several procedures have been created that will automatically perform specific functions in the solution. These can be configured to run through job queues in Business Central. Below you will find a description of these routines and how they can be configured.
+## Automatic Status Updates - Bank Transfers
 Codeunit 72182591 "DXTEBANK AritmaStatusUpdate"
-Denne prosedyren vil automatiske hente statusoppdateringer for alle bankoverføringer som er sendt til bank. Vi anbefaler at denne konfigureres i en jobbkø som kjører minium en gang pr. time, men ikke oftere enn hvert 2. minutt.
-## Automatisk henting av belastede bankoverføringer
+This procedure will automatically retrieve status updates for all bank transfers that have been sent to the bank. We recommend that this is configured in a job queue that runs at least once per hour, but not more often than every 2 minutes.
+## Automatic Retrieval of Charged Bank Transfers
 Codeunit 72182594 "DXTEBANK GetBookedPayments"
-Denne prosedyren vil automatisk hente nye belastede bankoverføringer fra banken. Vi anbefaler at denne konfigureres i en jobbkø som kjører minimum en gang pr. døgn, men ikke oftere enn en gang pr. time.
-## Automatisk bokføring av belastede bankoverføringer.
+This procedure will automatically retrieve new charged bank transfers from the bank. We recommend that this is configured in a job queue that runs at least once per day, but not more often than once per hour.
+## Automatic Posting of Charged Bank Transfers
 Codeunit 72182595 "DXTEBANK Post Booked Banktrans"
-Denne prosedyren vil automatisk bokføre bankoverførignger som er belastet i banken, men som ennå ikke er bokført i Business Central. Vi anbefaler at denne konfigureres i en jobbkø som kjøres minimum en gang pr. time, men ikke oftere en 2.hvert minutt.
+This procedure will automatically post bank transfers that have been charged in the bank, but which have not yet been posted in Business Central. We recommend that this is configured in a job queue that runs at least once per hour, but not more often than every 2 minutes.
