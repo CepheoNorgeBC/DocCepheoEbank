@@ -1,2 +1,2 @@
 # DocNoCepheoEbank
-Brukerdokumentasjon for den norske versjonen av Cepheo E-Bank
+Repository for documentation for Cepheo E-Bank and Aritma Pay
