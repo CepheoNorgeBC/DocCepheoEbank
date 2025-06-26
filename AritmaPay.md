@@ -21,3 +21,8 @@ This documentation is also avalible in [Danish](/dk/AritmaPay.md), [Norwegian](/
 [Match incoming payments with open customer ledger enties](/cle.md)
 [Accounting of incoming payments not related to customer ledgers](/genincoming.md)
 ## Bank reconciliation in Business Central
+[How to do bank reconciliation using Aritma Pay and Business Central](bankrec.md)
+
+## [FAQ (Frequently asked questions)](faq.md)
+## Release notes
+- [Version 1.1](/releasenotes/1_1.md)

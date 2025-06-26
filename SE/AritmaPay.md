@@ -2,7 +2,7 @@
 ## Vad är Aritma Pay?
 Aritma Pay är en tilläggsapplikation för Microsoft Dynamics 365 Business Central som ger anslutning mellan Business Central och alla större banker i Skandinavien.
 
-Denna dokumentation är också tillgänglig på [danska](/dk/AritmaPay.md), [norska](/no/AritmaPay.md) och [svenska](/se/AritmaPay.md)
+Denna dokumentation är också tillgänglig på [danska](/dk/AritmaPay.md), [norska](/no/AritmaPay.md) och [engelska](../AritmaPay.md)
 
 # Innehållsförteckning
 ## Kom igång och onboarding
@@ -10,7 +10,7 @@ Denna dokumentation är också tillgänglig på [danska](/dk/AritmaPay.md), [nor
 ## Konfiguration i Business Central
 [Konfigurera Aritma Pay](/AriPayconfig.md)
 [Konfigurera bankkonton](/bankaccounts.md)
-[Föredragen bankkonto för leverantörer](/vendor.md)
+[Föredraget bankkonto för leverantörer](/vendor.md)
 [Konfiguration av jobbköer i Business Central](/AutomaticUpdates.md)
 ## Det utgående betalningsflödet i Business Central
 [Föreslå banköverföringar](/SuggestBanktransfer.md)

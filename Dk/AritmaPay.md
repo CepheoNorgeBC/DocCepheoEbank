@@ -2,7 +2,7 @@
 ## Hvad er Aritma Pay?
 Aritma Pay er en tilføjelsesapplikation til Microsoft Dynamics 365 Business Central, der tilbyder forbindelse mellem Business Central og alle større banker i Skandinavien.
 
-Denne dokumentation er også tilgængelig på [engelsk](/AritmaPay.md)
+Denne dokumentation er også tilgængelig på [engelsk](/AritmaPay.md), [norsk](/no/AritmaPay.md) og [svensk](/SE/AritmaPay.md)
 
 # Indholdsfortegnelse
 ## Kom i gang og onboarding
