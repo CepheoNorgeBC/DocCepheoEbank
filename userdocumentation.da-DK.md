@@ -1,4 +1,4 @@
-# Aritma Finance Manager - Brugervejledning
+# Cepheo E-bank - Brugervejledning
 
 ## Indholdsfortegnelse
 
@@ -16,9 +16,9 @@
 
 ## Kom godt i gang
 
-### Hvad er Aritma Finance Manager?
+### Hvad er Cepheo E-bank?
 
-Aritma Finance Manager er en omfattende bankløsning til Microsoft Dynamics 365 Business Central, der giver dig mulighed for at:
+Cepheo E-bank er en omfattende bankløsning til Microsoft Dynamics 365 Business Central, der giver dig mulighed for at:
 
 - Behandle betalinger direkte fra Business Central
 - Importere banktransaktioner automatisk
@@ -361,8 +361,8 @@ Før du begynder, skal du sikre dig, at du har:
 
 ### Generelle spørgsmål
 
-**Spørgsmål: Hvilke banker understøttes af Aritma Finance Manager?**
-Svar: Aritma Finance Manager understøtter banker, der overholder SEPA-standarder og integrerer med Aritma Banking API. Kontakt Aritma for specifik bankkompatibilitet.
+**Spørgsmål: Hvilke banker understøttes af Cepheo E-bank?**
+Svar: Cepheo E-bank understøtter banker, der overholder SEPA-standarder og integrerer med Aritma Banking API. Kontakt Aritma for specifik bankkompatibilitet.
 
 **Spørgsmål: Kan jeg behandle betalinger i flere valutaer?**
 Svar: Ja, systemet understøtter multi-valuta betalinger med automatisk valutakurshåndtering.
@@ -383,7 +383,7 @@ Svar: Dette afhænger af betalingsstatus og din banks politikker. Kontakt din ba
 
 ### Sikkerhedsspørgsmål
 
-**Spørgsmål: Hvor sikker er Aritma Finance Manager?**
+**Spørgsmål: Hvor sikker er Cepheo E-bank?**
 Svar: Systemet bruger branchestandard OAuth2-godkendelse, TLS-kryptering og sikker legitimationsopbevaring via Azure Key Vault.
 
 **Spørgsmål: Hvem kan få adgang til bankfunktionerne?**
@@ -394,7 +394,7 @@ Svar: Ja, alle følsomme legitimationsoplysninger opbevares i Azure Key Vault me
 
 ### Compliance-spørgsmål
 
-**Spørgsmål: Er Aritma Finance Manager SEPA-compliant?**
+**Spørgsmål: Er Cepheo E-bank SEPA-compliant?**
 Svar: Ja, systemet er fuldt compliant med SEPA (Single Euro Payments Area) standarder og regler.
 
 **Spørgsmål: Hvilken revisionsspor er tilgængeligt?**
@@ -421,4 +421,4 @@ Svar: Systemet vedligeholder omfattende revisionslogger af alle transaktioner, b
 
 ---
 
-*Denne brugervejledning er til Aritma Finance Manager version 1.0.0.4. For de mest aktuelle oplysninger, se venligst den officielle dokumentation eller kontakt support.*
+*Denne brugervejledning er til Cepheo E-bank version 1.0.0.4. For de mest aktuelle oplysninger, se venligst den officielle dokumentation eller kontakt support.*

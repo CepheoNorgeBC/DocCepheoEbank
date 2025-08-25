@@ -1,4 +1,4 @@
-# Aritma Finance Manager - Användarhandbok
+# Cepheo E-bank - Användarhandbok
 
 ## Innehållsförteckning
 
@@ -16,9 +16,9 @@
 
 ## Komma igång
 
-### Vad är Aritma Finance Manager?
+### Vad är Cepheo E-bank?
 
-Aritma Finance Manager är en omfattande banklösning för Microsoft Dynamics 365 Business Central som låter dig:
+Cepheo E-bank är en omfattande banklösning för Microsoft Dynamics 365 Business Central som låter dig:
 
 - Behandla betalningar direkt från Business Central
 - Importera banktransaktioner automatiskt
@@ -361,8 +361,8 @@ Innan du börjar, se till att du har:
 
 ### Allmänna frågor
 
-**Fråga: Vilka banker stöds av Aritma Finance Manager?**
-Svar: Aritma Finance Manager stöder banker som följer SEPA-standarder och integrerar med Aritma Banking API. Kontakta Aritma för specifik bankkompatibilitet.
+**Fråga: Vilka banker stöds av Cepheo E-bank?**
+Svar: Cepheo E-bank stöder banker som följer SEPA-standarder och integrerar med Aritma Banking API. Kontakta Aritma för specifik bankkompatibilitet.
 
 **Fråga: Kan jag behandla betalningar i flera valutor?**
 Svar: Ja, systemet stöder betalningar i flera valutor med automatisk växelkurshantering.
@@ -383,7 +383,7 @@ Svar: Detta beror på betalningsstatus och din banks policyer. Kontakta din bank
 
 ### Säkerhetsfrågor
 
-**Fråga: Hur säker är Aritma Finance Manager?**
+**Fråga: Hur säker är Cepheo E-bank?**
 Svar: Systemet använder branschstandard OAuth2-autentisering, TLS-kryptering och säker inloggningsuppgiftslagring via Azure Key Vault.
 
 **Fråga: Vem kan få åtkomst till bankfunktionerna?**
@@ -394,7 +394,7 @@ Svar: Ja, alla känsliga inloggningsuppgifter lagras i Azure Key Vault med säke
 
 ### Frågor om regelefterlevnad
 
-**Fråga: Är Aritma Finance Manager SEPA-kompatibel?**
+**Fråga: Är Cepheo E-bank SEPA-kompatibel?**
 Svar: Ja, systemet är helt kompatibelt med SEPA (Single Euro Payments Area) standarder och regler.
 
 **Fråga: Vilken revisionslogg finns tillgänglig?**
@@ -421,4 +421,4 @@ Svar: Systemet upprätthåller omfattande revisionsloggar av alla transaktioner,
 
 ---
 
-*Denna användarhandbok är för Aritma Finance Manager version 1.0.0.4. För den mest aktuella informationen, se den officiella dokumentationen eller kontakta support.*
+*Denna användarhandbok är för Cepheo E-bank version 1.0.0.4. För den mest aktuella informationen, se den officiella dokumentationen eller kontakta support.*

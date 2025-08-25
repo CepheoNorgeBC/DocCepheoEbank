@@ -1,4 +1,4 @@
-# Aritma Finance Manager - User Guide
+# Cepheo E-bank - User Guide
 
 ## Table of Contents
 
@@ -16,9 +16,9 @@
 
 ## Getting Started
 
-### What is Aritma Finance Manager?
+### What is Cepheo E-bank?
 
-Aritma Finance Manager is a comprehensive banking solution for Microsoft Dynamics 365 Business Central that allows you to:
+Cepheo E-bank is a comprehensive banking solution for Microsoft Dynamics 365 Business Central that allows you to:
 
 - Process payments directly from Business Central
 - Import bank transactions automatically
@@ -361,8 +361,8 @@ Before you begin, ensure you have:
 
 ### General Questions
 
-**Q: What banks are supported by Aritma Finance Manager?**
-A: Aritma Finance Manager supports banks that comply with SEPA standards and integrate with the Aritma Banking API. Contact Aritma for specific bank compatibility.
+**Q: What banks are supported by Cepheo E-bank?**
+A: Cepheo E-bank supports banks that comply with SEPA standards and integrate with the Aritma Banking API. Contact Aritma for specific bank compatibility.
 
 **Q: Can I process payments in multiple currencies?**
 A: Yes, the system supports multi-currency payments with automatic exchange rate handling.
@@ -383,7 +383,7 @@ A: This depends on the payment status and your bank's policies. Contact your ban
 
 ### Security Questions
 
-**Q: How secure is the Aritma Finance Manager?**
+**Q: How secure is the Cepheo E-bank?**
 A: The system uses industry-standard OAuth2 authentication, TLS encryption, and secure credential storage via Azure Key Vault.
 
 **Q: Who can access the banking functions?**
@@ -394,7 +394,7 @@ A: Yes, all sensitive credentials are stored in Azure Key Vault with enterprise-
 
 ### Compliance Questions
 
-**Q: Is Aritma Finance Manager SEPA compliant?**
+**Q: Is Cepheo E-bank SEPA compliant?**
 A: Yes, the system is fully compliant with SEPA (Single Euro Payments Area) standards and regulations.
 
 **Q: What audit trail is available?**
@@ -421,4 +421,4 @@ A: The system maintains comprehensive audit logs of all transactions, payments, 
 
 ---
 
-*This user guide is for Aritma Finance Manager version 1.0.0.4. For the most current information, please refer to the official documentation or contact support.*
+*This user guide is for Cepheo E-bank version 1.0.0.4. For the most current information, please refer to the official documentation or contact support.*
